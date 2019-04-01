@@ -1,5 +1,6 @@
-# My Very First Webpage!!
-Welcome! (No special notations required for paragraphs)
+# My Very First Webpage!
 
-Here is the link: https://github.com/KittyMcDonagh/my-first-website
+Welcome!
+
+Here is the link: https:https://kittymcdonagh.github.io/my-first-website/
 
